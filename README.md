@@ -3,6 +3,10 @@
 A simple spirograph drawing program. The program takes in input through the sliders and draws the resultant graph in real time!
 This project uses raylib and is one of the first presentable projects I have done on my own. All work is my own.
 
+Here is a Video Demo:
+
+https://user-images.githubusercontent.com/92053987/186950586-df2307d1-367c-446e-9bd1-ff34e66e1799.mp4
+
 Here are some example graphs:
 
 SET MODE:
