@@ -1,7 +1,7 @@
 # Spirograph
 
-A simple spirograph drawing program. Takes in input through the sliders and draws the resultant graph in real time!
-This project uses raylib and is one of the first presentable projects I have done on my own.
+A simple spirograph drawing program. The program takes in input through the sliders and draws the resultant graph in real time!
+This project uses raylib and is one of the first presentable projects I have done on my own. All work is my own.
 
 Here are some example graphs:
 
